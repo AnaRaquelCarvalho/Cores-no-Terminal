@@ -1,0 +1,1 @@
+print('\033[1:40:43mBoa semana à todos!')
